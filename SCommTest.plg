@@ -1,0 +1,19 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: SCommTest - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "bscmake.exe /nologo /o"Debug/SCommTest.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\mscomm.sbr" ".\Debug\SCommTest.sbr" ".\Debug\SCommTestDlg.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+SCommTest.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
